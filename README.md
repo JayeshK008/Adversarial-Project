@@ -22,7 +22,7 @@ These results highlight the **critical role of domain diversity and semantic pre
 ---
 
 ## Novelty: STM Attack Evaluation for Multimodal Models
-
+![plot](STMD1.png)
 **Evaluation Results (over 500 images):**
 - **Average Cosine Similarity (Original)**: 0.3099
 - **Average Cosine Similarity (Adversarial)**: 0.2047
